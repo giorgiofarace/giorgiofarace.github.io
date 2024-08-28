@@ -1,13 +1,4 @@
----
-permalink: /
-title: "Hello!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-
+# Hello!
 
 I'm a PhD student in [Political Economy](https://politicaleconomy.uchicago.edu/) at the University of Chicago.
 
