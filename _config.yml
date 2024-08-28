@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "berlin.jpg"
   name             : "Giorgio Farace"
-  # pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "PhD student in Political Economy"
-  location         : "Chicago"
+  location         : #
   employer         : "The University of Chicago"
-  # uri              : # URL
+  uri              : # URL
   email            : "farace@uchicago.edu" 
 
   # Academic websites
