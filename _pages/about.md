@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a PhD student in [Political Economy](https://politicaleconomy.uchicago.edu/) at the University of Chicago.
 
-I am broadly interested in formal theory and comparative politics. I am currently working on models of information manipulation in non-democracy, repression, and collective choice.
+I'm broadly interested in formal theory and comparative politics. I'm currently working on models of information manipulation in non-democracy, repression, and collective choice.
 
 
 # Work in progress
